@@ -1,0 +1,22 @@
+Images Considered:
+
+airplane
+butterfly
+cat
+elephant
+dog
+soccer_ball
+
+//3 more pics needed!!
+
+
+---Major code is in caffe-master in home
+
+
+Refer to Deconvnet Implementation of Pierji on github
+Particularly to the Issues section for knowing how to vary things!
+
+Reading  "Striving for Simplicity: The All Convolutional Net"
+----More Complex Activation Functions (Goodfellow et al., 2013;Lin et al., 2014; Srivastava et al., 2013) techniques for improving class 		inference (Stollenga et al.,2014; Srivastava & Salakhutdinov, 2013)
+----improved regularization (Zeiler & Fergus, 2013; Springenberg & Riedmiller, 2013; Wan et al., 2013)
+----effectiveness of using small convolutional layers as recently proposed by Simonyan & Zisserman (2014)
